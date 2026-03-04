@@ -1,0 +1,1 @@
+iqtree3 -s graphiurus_uce.phylip -m GTR+I+G -B 1000 -nt AUTO -pre graphiurus_uce --redo-tree -safe
