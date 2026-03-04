@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="405" height="305" >
+<g>
+<line x1="40" y1="40"  x2="40" y2="240" style=" stroke: black;"/>
+<line x1="40" y1="240"  x2="340" y2="240" style=" stroke: black;"/>
+<line x1="37" y1="219"  x2="40" y2="219" style=" stroke: black;"/>
+<text x="5" y="219" style="font-family: monospace; font-size: 8px;">1039</text>
+<line x1="37" y1="199"  x2="40" y2="199" style=" stroke: black;"/>
+<text x="5" y="199" style="font-family: monospace; font-size: 8px;">2079</text>
+<line x1="37" y1="179"  x2="40" y2="179" style=" stroke: black;"/>
+<text x="5" y="179" style="font-family: monospace; font-size: 8px;">3119</text>
+<line x1="37" y1="159"  x2="40" y2="159" style=" stroke: black;"/>
+<text x="5" y="159" style="font-family: monospace; font-size: 8px;">4159</text>
+<line x1="37" y1="139"  x2="40" y2="139" style=" stroke: black;"/>
+<text x="5" y="139" style="font-family: monospace; font-size: 8px;">5199</text>
+<line x1="37" y1="119"  x2="40" y2="119" style=" stroke: black;"/>
+<text x="5" y="119" style="font-family: monospace; font-size: 8px;">6238</text>
+<line x1="37" y1="99"  x2="40" y2="99" style=" stroke: black;"/>
+<text x="5" y="99" style="font-family: monospace; font-size: 8px;">7278</text>
+<line x1="37" y1="79"  x2="40" y2="79" style=" stroke: black;"/>
+<text x="5" y="79" style="font-family: monospace; font-size: 8px;">8318</text>
+<line x1="37" y1="59"  x2="40" y2="59" style=" stroke: black;"/>
+<text x="5" y="59" style="font-family: monospace; font-size: 8px;">9358</text>
+<line x1="37" y1="39"  x2="40" y2="39" style=" stroke: black;"/>
+<text x="5" y="39" style="font-family: monospace; font-size: 8px;">10398</text>
+<text x="5" y="15" style="font-family: monospace; font-size: 10px;">Nbr</text>
+<text x="270" y="280" style="font-family: monospace; font-size: 10px;">Dist. Dt</text>
+<rect x="40" y="152" width="15" height="87"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="40" y1="240"  x2="40" y2="245" style=" stroke: black;"/>
+<text x="40" y="246" transform="rotate(90,40,246)" style="font-family: monospace; font-size: 8px;">0.00</text>
+<rect x="55" y="104" width="15" height="135"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="55" y1="240"  x2="55" y2="245" style=" stroke: black;"/>
+<text x="55" y="246" transform="rotate(90,55,246)" style="font-family: monospace; font-size: 8px;">0.01</text>
+<rect x="70" y="213" width="15" height="26"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="70" y1="240"  x2="70" y2="245" style=" stroke: black;"/>
+<text x="70" y="246" transform="rotate(90,70,246)" style="font-family: monospace; font-size: 8px;">0.02</text>
+<rect x="85" y="195" width="15" height="44"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="85" y1="240"  x2="85" y2="245" style=" stroke: black;"/>
+<text x="85" y="246" transform="rotate(90,85,246)" style="font-family: monospace; font-size: 8px;">0.03</text>
+<rect x="100" y="229" width="15" height="10"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="100" y1="240"  x2="100" y2="245" style=" stroke: black;"/>
+<text x="100" y="246" transform="rotate(90,100,246)" style="font-family: monospace; font-size: 8px;">0.04</text>
+<rect x="115" y="238" width="15" height="1"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="115" y1="240"  x2="115" y2="245" style=" stroke: black;"/>
+<text x="115" y="246" transform="rotate(90,115,246)" style="font-family: monospace; font-size: 8px;">0.05</text>
+<rect x="130" y="236" width="15" height="3"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="130" y1="240"  x2="130" y2="245" style=" stroke: black;"/>
+<text x="130" y="246" transform="rotate(90,130,246)" style="font-family: monospace; font-size: 8px;">0.06</text>
+<rect x="145" y="227" width="15" height="12"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="145" y1="240"  x2="145" y2="245" style=" stroke: black;"/>
+<text x="145" y="246" transform="rotate(90,145,246)" style="font-family: monospace; font-size: 8px;">0.07</text>
+<rect x="160" y="196" width="15" height="43"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="160" y1="240"  x2="160" y2="245" style=" stroke: black;"/>
+<text x="160" y="246" transform="rotate(90,160,246)" style="font-family: monospace; font-size: 8px;">0.08</text>
+<rect x="175" y="133" width="15" height="106"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="175" y1="240"  x2="175" y2="245" style=" stroke: black;"/>
+<text x="175" y="246" transform="rotate(90,175,246)" style="font-family: monospace; font-size: 8px;">0.09</text>
+<rect x="190" y="40" width="15" height="199"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="190" y1="240"  x2="190" y2="245" style=" stroke: black;"/>
+<text x="190" y="246" transform="rotate(90,190,246)" style="font-family: monospace; font-size: 8px;">0.10</text>
+<rect x="205" y="130" width="15" height="109"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="205" y1="240"  x2="205" y2="245" style=" stroke: black;"/>
+<text x="205" y="246" transform="rotate(90,205,246)" style="font-family: monospace; font-size: 8px;">0.11</text>
+<rect x="220" y="151" width="15" height="88"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="220" y1="240"  x2="220" y2="245" style=" stroke: black;"/>
+<text x="220" y="246" transform="rotate(90,220,246)" style="font-family: monospace; font-size: 8px;">0.12</text>
+<rect x="235" y="165" width="15" height="74"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="235" y1="240"  x2="235" y2="245" style=" stroke: black;"/>
+<text x="235" y="246" transform="rotate(90,235,246)" style="font-family: monospace; font-size: 8px;">0.13</text>
+<rect x="250" y="207" width="15" height="32"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="250" y1="240"  x2="250" y2="245" style=" stroke: black;"/>
+<text x="250" y="246" transform="rotate(90,250,246)" style="font-family: monospace; font-size: 8px;">0.14</text>
+<rect x="265" y="220" width="15" height="19"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="265" y1="240"  x2="265" y2="245" style=" stroke: black;"/>
+<text x="265" y="246" transform="rotate(90,265,246)" style="font-family: monospace; font-size: 8px;">0.14</text>
+<rect x="280" y="227" width="15" height="12"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="280" y1="240"  x2="280" y2="245" style=" stroke: black;"/>
+<text x="280" y="246" transform="rotate(90,280,246)" style="font-family: monospace; font-size: 8px;">0.15</text>
+<rect x="295" y="233" width="15" height="6"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="295" y1="240"  x2="295" y2="245" style=" stroke: black;"/>
+<text x="295" y="246" transform="rotate(90,295,246)" style="font-family: monospace; font-size: 8px;">0.16</text>
+<rect x="310" y="237" width="15" height="2"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="310" y1="240"  x2="310" y2="245" style=" stroke: black;"/>
+<text x="310" y="246" transform="rotate(90,310,246)" style="font-family: monospace; font-size: 8px;">0.17</text>
+<rect x="325" y="239" width="15" height="0"  fill= "#ffb83b"  style=" stroke: black;" />
+<line x1="325" y1="240"  x2="325" y2="245" style=" stroke: black;"/>
+<text x="325" y="246" transform="rotate(90,325,246)" style="font-family: monospace; font-size: 8px;">0.18</text>
+<line id="CutDis10" visibility="hidden" x1="137" y1="240"  x2="137" y2="40" style=" stroke: red;"/>
+<line id="CutDis9" visibility="hidden" x1="144" y1="240"  x2="144" y2="40" style=" stroke: red;"/>
+<line id="CutDis8" visibility="hidden" x1="102" y1="240"  x2="102" y2="40" style=" stroke: red;"/>
+<line id="CutDis7" visibility="hidden" x1="42" y1="240"  x2="42" y2="40" style=" stroke: red;"/>
+<line id="CutDis6" visibility="hidden" x1="137" y1="240"  x2="137" y2="40" style=" stroke: red;"/>
+<line id="CutDis5" visibility="hidden" x1="130" y1="240"  x2="130" y2="40" style=" stroke: red;"/>
+<line id="CutDis4" visibility="hidden" x1="133" y1="240"  x2="133" y2="40" style=" stroke: red;"/>
+<line id="CutDis3" visibility="hidden" x1="135" y1="240"  x2="135" y2="40" style=" stroke: red;"/>
+<line id="CutDis2" visibility="hidden" x1="110" y1="240"  x2="110" y2="40" style=" stroke: red;"/>
+<line id="CutDis1" visibility="hidden" x1="119" y1="240"  x2="119" y2="40" style=" stroke: red;"/>
+</g>
+</svg>

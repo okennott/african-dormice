@@ -1,0 +1,173 @@
+Partition 17 
+Asap-Score: 32.500000
+Proba: 8.542914e-01
+Nb subsets with recursion:167 (without recursion: 166)
+------------------------------------------------------------
+
+Subset[ 1 ] n: 1 ;id: FMNH196192_misukuMWI 
+Subset[ 2 ] n: 1 ;id: FMNH196634_misukuMWI 
+Subset[ 3 ] n: 1 ;id: FMNH151364_usambaraTZA 
+Subset[ 4 ] n: 1 ;id: FMNH154001_kwamgumiTZA 
+Subset[ 5 ] n: 1 ;id: GA2949_moukalabaGAB 
+Subset[ 6 ] n: 1 ;id: CAR116_dzangasanghaCAR 
+Subset[ 7 ] n: 1 ;id: ANG0007_tundavalaANG 
+Subset[ 8 ] n: 1 ;id: Lav3436_diredawaETH 
+Subset[ 9 ] n: 1 ;id: KEN088_wambaKEN 
+Subset[ 10 ] n: 2 ;id: TZA27632_rombomkuuTZA TZA27645_rombomkuuTZA 
+Subset[ 11 ] n: 1 ;id: KEN041_namangaKEN 
+Subset[ 12 ] n: 1 ;id: TZA27633_rombomkuuTZA 
+Subset[ 13 ] n: 1 ;id: PT2016x29_sachiambeANG 
+Subset[ 14 ] n: 1 ;id: AMNH55739_marunguDRC 
+Subset[ 15 ] n: 1 ;id: P0994_malwetaGIN 
+Subset[ 16 ] n: 1 ;id: MOZ210_gileMOZ 
+Subset[ 17 ] n: 1 ;id: FMNH183735_namuliMOZ 
+Subset[ 18 ] n: 1 ;id: DQ652185_molopoZAF 
+Subset[ 19 ] n: 1 ;id: TZA28200_nunduTZA 
+Subset[ 20 ] n: 1 ;id: FMNH163759_rungweTZA 
+Subset[ 21 ] n: 1 ;id: TZAUP026_ 
+Subset[ 22 ] n: 1 ;id: TZAUP045_ 
+Subset[ 23 ] n: 1 ;id: TZAUP004_ 
+Subset[ 24 ] n: 1 ;id: TZAUP005_ 
+Subset[ 25 ] n: 1 ;id: FMNH205145_rungweTZA 
+Subset[ 26 ] n: 1 ;id: TZAUP031_ 
+Subset[ 27 ] n: 1 ;id: KEN20150937_mtkenyaKEN 
+Subset[ 28 ] n: 1 ;id: KEN20151092_mtkenyaKEN 
+Subset[ 29 ] n: 7 ;id: KEN20150349_mtkenyaKEN KEN20150749_mtkenyaKEN KEN20150165_mtkenyaKEN KEN20150834_mtkenyaKEN KEN20151327_mtkenyaKEN KEN20151471_mtkenyaKEN KEN20151483_mtkenyaKEN 
+Subset[ 30 ] n: 5 ;id: KEN20151040_mtkenyaKEN KEN20150997_mtkenyaKEN KEN20151041_mtkenyaKEN KEN20151042_mtkenyaKEN KEN20151101_mtkenyaKEN 
+Subset[ 31 ] n: 1 ;id: FMNH190308_aberdareKEN 
+Subset[ 32 ] n: 6 ;id: FMNH190300_aberdareKEN FMNH190302_aberdareKEN FMNH190304_aberdareKEN FMNH190305_aberdareKEN FMNH190632_aberdareKEN FMNH190633_aberdareKEN 
+Subset[ 33 ] n: 1 ;id: KEN20150306_mtkenyaKEN 
+Subset[ 34 ] n: 4 ;id: FMNH190301_aberdareKEN FMNH190303_aberdareKEN FMNH190306_aberdareKEN FMNH190307_aberdareKEN 
+Subset[ 35 ] n: 2 ;id: FMNH216964_mtkenyaKEN KEN20150390_mtkenyaKEN 
+Subset[ 36 ] n: 4 ;id: CMR6_bamendaCMR CMR5_bamendaCMR CMR17_bamendaCMR CMR1_bamendaCMR 
+Subset[ 37 ] n: 2 ;id: CMR19_bamendaCMR CMR21_bamendaCMR 
+Subset[ 38 ] n: 1 ;id: N4236_boumbaNER 
+Subset[ 39 ] n: 1 ;id: BEN0539_terouBEN 
+Subset[ 40 ] n: 2 ;id: BEN0878_goukaBEN BEN0589_terouBEN 
+Subset[ 41 ] n: 4 ;id: BEN0347_wannouBEN BEN0001_agbassaBEN BEN0291_wannouBEN GDOB1859_tanguietaBEN 
+Subset[ 42 ] n: 1 ;id: SI21_kedianaGIN 
+Subset[ 43 ] n: 1 ;id: SI66_kedianaGIN 
+Subset[ 44 ] n: 1 ;id: ETH0600_alatishETH 
+Subset[ 45 ] n: 2 ;id: Lav2521_dhatiwelelETH Lav2597_dhatiwelelETH 
+Subset[ 46 ] n: 1 ;id: RTE127_mahbereslassieETH 
+Subset[ 47 ] n: 1 ;id: MET2586_alamataETH 
+Subset[ 48 ] n: 2 ;id: ETH1314_borenasayntETH ETH1341_borenasayntETH 
+Subset[ 49 ] n: 2 ;id: ETH0501_hashengeETH ETH1315_borenasayntETH 
+Subset[ 50 ] n: 1 ;id: ETH0400_bulchaETH 
+Subset[ 51 ] n: 1 ;id: ETH1594_kunimuktariETH 
+Subset[ 52 ] n: 1 ;id: Denys21_godabutichaETH 
+Subset[ 53 ] n: 1 ;id: VN1185_fressoudouGIN 
+Subset[ 54 ] n: 1 ;id: CIV892_gbagroubedivoCIV 
+Subset[ 55 ] n: 1 ;id: MK8_maikouGIN 
+Subset[ 56 ] n: 2 ;id: ZWW115_ ZWW144_ 
+Subset[ 57 ] n: 1 ;id: P0585_kazaoumaGIN 
+Subset[ 58 ] n: 2 ;id: VN1630_boweGIN VN1643_boweGIN 
+Subset[ 59 ] n: 1 ;id: P2461_kazaoumaGIN 
+Subset[ 60 ] n: 5 ;id: DFA590_nimbaGIN DFA556_nimbaGIN CIV1213_blodiduekoueCIV DFA555_nimbaGIN NIMII68_nimbaGIN 
+Subset[ 61 ] n: 2 ;id: FMNH212144_virungaRWA FMNH212348_virungaRWA 
+Subset[ 62 ] n: 1 ;id: FMNH212349_virungaRWA 
+Subset[ 63 ] n: 2 ;id: FMNH157986_bwindiUGA FMNH160972_bwindiUGA 
+Subset[ 64 ] n: 2 ;id: UGA1149_ UGA1152_ 
+Subset[ 65 ] n: 1 ;id: FMNH207677_nyungweRWA 
+Subset[ 66 ] n: 1 ;id: FMNH212143_virungaRWA 
+Subset[ 67 ] n: 1 ;id: Bulembu08_bulembuSWZ 
+Subset[ 68 ] n: 1 ;id: Bulembu07_bulembuSWZ 
+Subset[ 69 ] n: 1 ;id: Bulembu06_bulembuSWZ 
+Subset[ 70 ] n: 2 ;id: Bulembu20_bulembuSWZ Bulembu25_bulembuSWZ 
+Subset[ 71 ] n: 1 ;id: ANG0121_hombeANG 
+Subset[ 72 ] n: 1 ;id: ANG0122_hombeANG 
+Subset[ 73 ] n: 1 ;id: CRT682_liekipaysansDRC 
+Subset[ 74 ] n: 1 ;id: FMNH202879_mokaGNQ 
+Subset[ 75 ] n: 1 ;id: FMNH195179_kaboboDRC 
+Subset[ 76 ] n: 3 ;id: FMNH228005_itombweDRC FMNH228072_itombweDRC FMNH228073_itombweDRC 
+Subset[ 77 ] n: 3 ;id: FMNH173463_kahuzibiegaDRC FMNH173464_kahuzibiegaDRC FMNH211371_kahuzibiegaDRC 
+Subset[ 78 ] n: 2 ;id: FMNH145224_rwenzoriUGA FMNH145225_rwenzoriUGA 
+Subset[ 79 ] n: 1 ;id: FMNH157821_mgahingaUGA 
+Subset[ 80 ] n: 1 ;id: FMNH160968_bwindiUGA 
+Subset[ 81 ] n: 2 ;id: FMNH149348_kibiraBDI FMNH149349_kibiraBDI 
+Subset[ 82 ] n: 1 ;id: FMNH189295_kahuzibiegaDRC 
+Subset[ 83 ] n: 2 ;id: FMNH189124_kahuzibiegaCOD FMNH189297_kahuzibiegaDRC 
+Subset[ 84 ] n: 1 ;id: FMNH149344_kibiraBDI 
+Subset[ 85 ] n: 2 ;id: NNP660_nyungweRWA FMNH149346_kibiraBDI 
+Subset[ 86 ] n: 1 ;id: FMNH138128_kibiraBDI 
+Subset[ 87 ] n: 2 ;id: AJ225115_ AJ225115D_ 
+Subset[ 88 ] n: 2 ;id: FMNH138129_kibiraBDI FMNH138133_kibiraBDI 
+Subset[ 89 ] n: 7 ;id: FMNH196193_misukuMWI FMNH196196_misukuMWI FMNH196201_misukuMWI FMNH196202_misukuMWI FMNH196642_misukuMWI FMNH196647_misukuMWI FMNH196648_misukuMWI 
+Subset[ 90 ] n: 2 ;id: MN066290_rubehoTZA TZA27993_masengerubehoTZA 
+Subset[ 91 ] n: 2 ;id: RS0860_brucemillerZAM ZAM09ZRD30_ 
+Subset[ 92 ] n: 1 ;id: JS027_lusakaeastZAM 
+Subset[ 93 ] n: 1 ;id: JS140_lusakaeastZAM 
+Subset[ 94 ] n: 1 ;id: ETH0658_gambellaETH 
+Subset[ 95 ] n: 1 ;id: KEN118_marsabitKEN 
+Subset[ 96 ] n: 1 ;id: Lav3083_areroETH 
+Subset[ 97 ] n: 1 ;id: Tomass134_ 
+Subset[ 98 ] n: 1 ;id: ETH3039_ 
+Subset[ 99 ] n: 1 ;id: ETH0114_gatoETH 
+Subset[ 100 ] n: 3 ;id: Tomass18_ ETH6088_chanoETH CMAD5_ETH 
+Subset[ 101 ] n: 11 ;id: Tomass24_ Tomass110_ Tomass127_ Tomass240_ Tomass330_ Tomass410_ Tomass2_ Tomass15_ Tomass17_ Tomass210_ Tomass23_ 
+Subset[ 102 ] n: 2 ;id: KEN2018081202_kakamegaKEN KEN2018081227_kakamegaKEN 
+Subset[ 103 ] n: 1 ;id: TZAST012_ 
+Subset[ 104 ] n: 1 ;id: TZAST013_ 
+Subset[ 105 ] n: 1 ;id: TZA27578_kitumbeineTZA 
+Subset[ 106 ] n: 2 ;id: TZA27579_kitumbeineTZA TZA27580_kitumbeineTZA 
+Subset[ 107 ] n: 1 ;id: TZAGG041_ngarenanyukiTZA 
+Subset[ 108 ] n: 2 ;id: FMNH158120_tarangireTZA FMNH187207_tarangireTZA 
+Subset[ 109 ] n: 5 ;id: FMNH187214_tarangireTZA FMNH168417_gomberoTZA TZA27947_bongaberekuTZA FMNH187271_tarangireTZA FMNH187215_tarangireTZA 
+Subset[ 110 ] n: 2 ;id: FMNH174386_kilimanjaroTZA FMNH174387_kilimanjaroTZA 
+Subset[ 111 ] n: 1 ;id: FMNH211135_ngorongoroTZA 
+Subset[ 112 ] n: 1 ;id: TZASK039_tumatiTZA 
+Subset[ 113 ] n: 1 ;id: FMNH236583_imatongSSD 
+Subset[ 114 ] n: 1 ;id: UGA0296_mathenikobokoraUGA 
+Subset[ 115 ] n: 3 ;id: KEN2018080170_mauKEN KEN2018080171_mauKEN KEN2018080172_mauKEN 
+Subset[ 116 ] n: 4 ;id: KEN2018080120_mauKEN KEN2018010606_loitaKEN KEN2018010626_loitaKEN KEN2018010428_loitaKEN 
+Subset[ 117 ] n: 1 ;id: KEN2018010631_loitaKEN 
+Subset[ 118 ] n: 1 ;id: KEN2018010045_loitaKEN 
+Subset[ 119 ] n: 1 ;id: TZA27610_monduliTZA 
+Subset[ 120 ] n: 1 ;id: TZA27609_monduliTZA 
+Subset[ 121 ] n: 3 ;id: FMNH161405_kibebeTZA TZA0663_kijunguTZA TZA29797_meriongimaTZA 
+Subset[ 122 ] n: 3 ;id: TZA27949_bongaberekuTZA TZA27950_bongaberekuTZA TZA27946_bongaberekuTZA 
+Subset[ 123 ] n: 1 ;id: TZA27948_bongaberekuTZA 
+Subset[ 124 ] n: 1 ;id: KEN311_loitaKEN 
+Subset[ 125 ] n: 1 ;id: KEN2018080459_mauKEN 
+Subset[ 126 ] n: 3 ;id: KEN2018080220_mauKEN KEN2018080262_mauKEN KEN2018080278_mauKEN 
+Subset[ 127 ] n: 10 ;id: FMNH210350_mauKEN KEN2018080198_mauKEN FMNH210351_mauKEN KEN2018080289_mauKEN KEN2018080292_mauKEN KEN2018080336_mauKEN KEN2018080341_mauKEN FMNH210349_mauKEN KEN2018080087_mauKEN KEN2018080165_mauKEN 
+Subset[ 128 ] n: 1 ;id: KEN20150240_mtkenyaKEN 
+Subset[ 129 ] n: 1 ;id: KEN20151449_mtkenyaKEN 
+Subset[ 130 ] n: 1 ;id: FMNH215079_buhangaRWA 
+Subset[ 131 ] n: 1 ;id: FMNH236582_imatongSSD 
+Subset[ 132 ] n: 1 ;id: UGA0074_taanUGA 
+Subset[ 133 ] n: 1 ;id: UGA0013_kidepoUGA 
+Subset[ 134 ] n: 1 ;id: UGA0439_pianupeUGA 
+Subset[ 135 ] n: 2 ;id: FMNH232158_morungoleUGA UGA0099_taanUGA 
+Subset[ 136 ] n: 1 ;id: FMNH217584_chepkitaleKEN 
+Subset[ 137 ] n: 12 ;id: UGA0176_morotoUGA FMNH216969_chepkitaleKEN FMNH217585_chepkitaleKEN UGA0340_kadamUGA UGA0443_pianupeUGA KEN692_cheranganiKEN KEN756_katimokKEN UGA0324_kadamUGA UGA0365_kadamUGA KEN2018081151_kakamegaKEN FMNH216970_chepkitaleKEN UGA0028_kidepoUGA 
+Subset[ 138 ] n: 1 ;id: KEN2018010122_loitaKEN 
+Subset[ 139 ] n: 3 ;id: KEN2018010493_loitaKEN KEN2018010494_loitaKEN KEN2018010536_loitaKEN 
+Subset[ 140 ] n: 1 ;id: KEN2018010106_loitaKEN 
+Subset[ 141 ] n: 3 ;id: KEN2018010313_loitaKEN KEN2018010625_loitaKEN KEN2018010594_loitaKEN 
+Subset[ 142 ] n: 20 ;id: KEN2018010505_loitaKEN KEN2018010507_loitaKEN KEN2018010550_loitaKEN KEN2018010552_loitaKEN KEN2018010553_loitaKEN KEN2018010513_loitaKEN KEN2018010538_loitaKEN KEN2018010027_loitaKEN KEN2018010061_loitaKEN KEN2018010139_loitaKEN KEN2018010207_loitaKEN KEN2018010495_loitaKEN KEN2018010551_loitaKEN KEN307_loitaKEN KEN306_loitaKEN KEN2018010519_loitaKEN TZA27870_ikonaTZA KEN2018010689_loitaKEN KEN2018010060_loitaKEN KEN2018010429_loitaKEN 
+Subset[ 143 ] n: 1 ;id: KEN2018010784_loitaKEN 
+Subset[ 144 ] n: 1 ;id: ETH1565_wushwushETH 
+Subset[ 145 ] n: 2 ;id: UGA0444_pianupeUGA UGA0160_morotoUGA 
+Subset[ 146 ] n: 1 ;id: KEN20150414_mtkenyaKEN 
+Subset[ 147 ] n: 1 ;id: KEN20150439_mtkenyaKEN 
+Subset[ 148 ] n: 1 ;id: KEN20151902_mtkenyaKEN 
+Subset[ 149 ] n: 8 ;id: FMNH216965_mtkenyaKEN FMNH216966_mtkenyaKEN FMNH216967_mtkenyaKEN FMNH216968_mtkenyaKEN FMNH217583_mtkenyaKEN KEN20151692_mtkenyaKEN KEN20151663_mtkenyaKEN KEN20151878_mtkenyaKEN 
+Subset[ 150 ] n: 1 ;id: KEN20151691_mtkenyaKEN 
+Subset[ 151 ] n: 1 ;id: Lav3611_cheberachurchuraETH 
+Subset[ 152 ] n: 2 ;id: KEN194_maralalKEN KEN195_maralalKEN 
+Subset[ 153 ] n: 1 ;id: FMNH216972_cheranganiKEN 
+Subset[ 154 ] n: 2 ;id: KEN20150321_mtkenyaKEN KEN20150327_mtkenyaKEN 
+Subset[ 155 ] n: 1 ;id: KEN20150340_mtkenyaKEN 
+Subset[ 156 ] n: 3 ;id: KEN20150520_mtkenyaKEN KEN176_maralalKEN ETH0708_mizanteferiETH 
+Subset[ 157 ] n: 1 ;id: FMNH219291_ruahaTZA 
+Subset[ 158 ] n: 10 ;id: FMNH171714_kahuzibiegaDRC FMNH173465_kahuzibiegaDRC FMNH173466_kahuzibiegaDRC FMNH189293_kahuzibiegaDRC FMNH189294_kahuzibiegaDRC FMNH211368_kahuzibiegaDRC FMNH211369_kahuzibiegaDRC FMNH211370_kahuzibiegaDRC FMNH211372_kahuzibiegaDRC FMNH189296_kahuzibiegaCOD 
+Subset[ 159 ] n: 1 ;id: TZA0863_lugaloTZA 
+Subset[ 160 ] n: 1 ;id: TZA28230_ilundaTZA 
+Subset[ 161 ] n: 3 ;id: TZA28241_ilundaTZA TZA28231_ilundaTZA TZA28227_ilundaTZA 
+Subset[ 162 ] n: 1 ;id: FMNH219290_ruahaTZA 
+Subset[ 163 ] n: 1 ;id: TZA0463_chalaTZA 
+Subset[ 164 ] n: 2 ;id: TZA0388_kibaoniTZA TZA32912_masheteTZA 
+Subset[ 165 ] n: 1 ;id: FMNH158571_uluguruTZA 
+Subset[ 166 ] n: 1 ;id: KEN20160011_shimbahillsKEN 
+Subset[ 167 ] n: 2 ;id: FMNH151363_usambaraTZA FMNH150365_usambaraTZA 

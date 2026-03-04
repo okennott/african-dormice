@@ -1,0 +1,37 @@
+/*
+	ASAP (Agglomerate Specimens by Automatic Processing)
+	will delineate species in your dataset in a few moments.
+	Remember that the final cut remains yours!
+*/
+> Passing parameters to ASAP
+- file = graphiurus_cytb_fullaln.fas
+- dirfiles = K:/TEMP/asap_e24jgpoh/
+- thedate = 2025-02-07T08:02:17
+- nbBestAsap = 20
+- imethode = 0
+- seed_asap = -1
+- asap_param.lenSeq = 1140
+- asap_param.replicates = 1000
+- seuil_pvalue = 0.010000
+- pond_pente = 0.100000
+- ts_tv = 2.000000
+- withallfiles = 1
+- fmeg = 0
+
+> Begin ASAP core:
+
+> asap is reading the fasta file and computing the distance matrix
+done read
+done mat
+End of matrix distance
+  326 input sequences
+> asap is building and testing all partitions
+  > asap has finished building and testing all partitions
+  > writing scores file
+> asap is creating text and graphical output
+> results were write
+> asap computation times were:
+   0m  1s to read file and compute distance
+   0m  1s to compute and test all partitions
+  --------------
+   0m  2s total
