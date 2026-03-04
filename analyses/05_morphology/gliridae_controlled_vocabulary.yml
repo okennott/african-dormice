@@ -1,0 +1,311 @@
+version: 0.2.0
+scope: Gliridae (Dormice) – controlled vocabulary for trait extraction from narrative
+  sources (e.g., HMW)
+created: '2025-12-15'
+principles:
+- Use MDD as the backbone for accepted taxa + identifiers.
+- Store traits in tidy-long form; generate wide viz tables as derived outputs.
+- Preserve provenance: source, source_field, and a short verbatim excerpt for each
+    extracted datum.
+- Prefer conservative, regex-based extraction first; allow iterative improvements
+  without breaking the schema.
+name_harmonization:
+  canonical_key: Genus_specificEpithet (underscore)
+  overrides:
+    Graphiurus_nagtglasu: Graphiurus_nagtglasii
+traits:
+  numeric_morphometrics:
+    description: Numeric traits typically embedded in HMW descriptiveNotes. Extract
+      min/max where possible.
+    traits:
+    - trait_name: head_body_mm
+      aliases:
+      - head-body
+      - head—body
+      - head body
+      unit: mm
+    - trait_name: tail_mm
+      aliases:
+      - tail
+      unit: mm
+    - trait_name: ear_mm
+      aliases:
+      - ear
+      unit: mm
+    - trait_name: hindfoot_mm
+      aliases:
+      - hindfoot
+      - hind foot
+      unit: mm
+    - trait_name: weight_g
+      aliases:
+      - weight
+      - body weight
+      - mass
+      unit: g
+    - trait_name: diploid_number_2n
+      aliases:
+      - 2n
+      unit: count
+  categorical:
+    habitat_class:
+      description: Broad habitat classes. Multiple values allowed per species.
+      categories:
+        forest:
+          label: Forest / woodland
+          definition: Closed to semi-closed canopy habitats; woodland included.
+          regex:
+          - \bforest\b
+          - \bwoodland\b
+          - \bmontane forest\b
+          - \briparian forest\b
+          - \btemperate forest\b
+        shrubland:
+          label: Shrubland / scrub
+          definition: Shrub-dominated habitats; scrub, maquis.
+          regex:
+          - \bshrub\b
+          - \bscrub\b
+          - \bmaquis\b
+        grassland_savanna:
+          label: Grassland / savanna
+          definition: Open grassy habitats including savanna mosaics.
+          regex:
+          - \bgrassland\b
+          - \bsavanna\b
+          - \bsteppe\b
+          - \bmeadow\b
+        rocky_cliffs:
+          label: Rocky habitats / cliffs
+          definition: Rocky outcrops, cliffs, boulder fields, talus.
+          regex:
+          - \brock\w*\b
+          - \bcliff\w*\b
+          - \btalus\b
+          - \bboulder\w*\b
+          - \boutcrop\w*\b
+        desert_semiarid:
+          label: Desert / semi-arid
+          definition: Arid to semi-arid environments; desert margins.
+          regex:
+          - \bdesert\b
+          - \barid\b
+          - \bsemi-?arid\b
+        caves:
+          label: Caves / karst
+          definition: Cave or karst systems used for roosting or refuge.
+          regex:
+          - \bcave\w*\b
+          - \bkarst\b
+        anthropogenic:
+          label: Human-modified
+          definition: Villages, gardens, buildings, agricultural mosaics.
+          regex:
+          - \bbuilding\w*\b
+          - \bhouses\b
+          - \bgarden\w*\b
+          - \bagricultur\w*\b
+          - \borchard\w*\b
+          - \bplantation\w*\b
+    diet_class:
+      description: Broad dietary classes. Multiple values allowed per species.
+      categories:
+        frugivory:
+          label: Fruits
+          definition: Fruit-dominated feeding.
+          regex:
+          - \bfruit\w*\b
+          - \bberries\b
+        granivory:
+          label: Seeds / nuts
+          definition: Seeds, nuts, acorns, grains.
+          regex:
+          - \bseed\w*\b
+          - \bnut\w*\b
+          - \bacorn\w*\b
+          - \bgrain\w*\b
+        folivory:
+          label: Leaves / green parts
+          definition: Leaves, buds, shoots.
+          regex:
+          - \bleaf\w*\b
+          - \bbud\w*\b
+          - \bshoot\w*\b
+        insectivory:
+          label: Insects / invertebrates
+          definition: Insects and other invertebrates.
+          regex:
+          - \binsect\w*\b
+          - \barthropod\w*\b
+          - \blarva\w*\b
+          - \binvertebrate\w*\b
+          - \bspider\w*\b
+        fungivory:
+          label: Fungi
+          definition: Mushrooms, truffles, fungal material.
+          regex:
+          - \bfung\w*\b
+          - \bmushroom\w*\b
+          - \btruffle\w*\b
+        omnivory:
+          label: Omnivory
+          definition: Explicit mention of omnivory or broad mixed diet.
+          regex:
+          - \bomnivor\w*\b
+          - \bopportunistic\b
+    activity_rhythm:
+      description: Daily activity rhythm categories.
+      categories:
+        nocturnal:
+          label: Nocturnal
+          definition: Active mainly at night.
+          regex:
+          - \bnocturnal\b
+        diurnal:
+          label: Diurnal
+          definition: Active mainly during day.
+          regex:
+          - \bdiurnal\b
+        crepuscular:
+          label: Crepuscular
+          definition: Active mainly at dawn/dusk.
+          regex:
+          - \bcrepuscular\b
+        cathemeral:
+          label: Cathemeral
+          definition: Active both day and night; irregular.
+          regex:
+          - \bcathemeral\b
+    dormancy:
+      description: Dormancy/energy-saving strategies.
+      categories:
+        hibernation:
+          label: Hibernation
+          definition: True hibernation (seasonal).
+          regex:
+          - \bhibernat\w*\b
+        torpor:
+          label: Torpor
+          definition: Daily/short torpor (not necessarily seasonal).
+          regex:
+          - \btorpor\b
+    locomotion:
+      description: Locomotor mode or substrate use.
+      categories:
+        arboreal:
+          label: Arboreal
+          definition: Primarily tree-dwelling.
+          regex:
+          - \barboreal\b
+          - \btrees\b
+          - \bcanopy\b
+        terrestrial:
+          label: Terrestrial
+          definition: Primarily ground-dwelling.
+          regex:
+          - \bterrestrial\b
+          - \bon the ground\b
+        scansorial:
+          label: Scansorial
+          definition: Climbing + ground use.
+          regex:
+          - \bclimb\w*\b
+          - \bscansorial\b
+        saxicolous:
+          label: Rock-dwelling
+          definition: Strong association with rocks/cliffs.
+          regex:
+          - \brock\w*\b
+          - \bcliff\w*\b
+    sociality:
+      description: Social organization / grouping.
+      categories:
+        solitary:
+          label: Solitary
+          definition: Mostly solitary.
+          regex:
+          - \bsolitary\b
+        pair:
+          label: Pairs
+          definition: Pairs reported.
+          regex:
+          - \bpairs\b
+          - \bpair\b
+        group:
+          label: Groups / aggregations
+          definition: Groups, colonies, communal nesting.
+          regex:
+          - \bgroup\w*\b
+          - \bcolony\w*\b
+          - \bcommunal\b
+          - \baggregation\w*\b
+nomenclature:
+  source: MDD Species_Syn v2.3 (family subset)
+  multi_value_separator: '|'
+  fields:
+    name_id: Stable identifier for each synonym/name record (MDDSYN:<MDD_syn_ID>).
+    taxon_id: Accepted species in backbone (MDD:<Genus species>) derived from MDD_genus
+      + MDD_specificEpithet.
+    name_string_fields:
+    - MDD_species
+    - MDD_original_combination
+    - MDD_normalized_original_combination
+    type_locality_fields:
+    - MDD_old_type_locality
+    - MDD_original_type_locality
+    - MDD_unchecked_type_locality
+    - MDD_emended_type_locality
+    - MDD_type_latitude
+    - MDD_type_longitude
+    - MDD_type_country
+    - MDD_type_subregion
+    - MDD_type_subregion2
+    type_specimen_fields:
+    - MDD_holotype
+    - MDD_type_kind
+    - MDD_type_specimen_link
+    citation_fields_as_references:
+    - MDD_authority_citation
+    - MDD_unchecked_authority_citation
+    - MDD_sourced_unverified_citations
+    - MDD_variant_name_citations
+    - MDD_name_usages
+  controlled_terms:
+    MDD_nomenclature_status:
+      allowed:
+      - as_emended
+      - available
+      - incorrect_subsequent_spelling
+      - justified_emendation
+      - name_combination
+      - nomen_novum
+      - nomen_nudum
+      - not_published_with_a_generic_name
+      - not_used_as_valid
+      - placed_on_index
+      - preoccupied
+      - subsequent_usage
+      - unjustified_emendation
+      - unpublished_electronic
+      description: Nomenclatural status flags curated by MDD; may be multi-valued
+        (pipe-separated).
+    MDD_validity:
+      allowed:
+      - nomen_dubium
+      - species
+      - synonym
+      description: Validity classification (e.g., species, synonym, nomen_dubium).
+    MDD_original_rank:
+      allowed:
+      - species
+      - subspecies
+      - synonym_species
+      - variety
+      description: Original rank of the name when established.
+    MDD_type_kind:
+      allowed:
+      - holotype
+      - lectotype
+      - neotype
+      - syntypes
+      description: Type specimen designation category.

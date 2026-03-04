@@ -1,0 +1,30 @@
+code,abbr,description,units,precision_mm,standard_name
+m1,GRLS,greatest length of skull,mm,0.01,grls_mm
+m2,PRCO,condylobasal length,mm,0.01,prco_mm
+m3,HEBA,henselion-basion,mm,0.01,heba_mm
+m4,HEPA,henselion-palation,mm,0.01,hepa_mm
+m5,PAFL,length of palatal incisive foramen (= palatal foramen),mm,0.01,pifl_mm
+m6,DIA1,length of diastema (alveolus of M1 to posterior border of upper incisor alveolus),mm,0.01,dia1_mm
+m7,DIA2,distance (alveolus of M1 to foremost edge of upper incisor),mm,0.01,dia2_mm
+m8,INTE,smallest interorbital breadth,mm,0.01,inte_mm
+m9,ZYGO,zygomatic breadth on the zygomatic process of the squamosal,mm,0.01,zygo_mm
+m10,PALA,smallest palatal breadth between first upper molars,mm,0.01,pala_mm
+m11,UPTE,length of upper cheek teeth (alveolus of M1 to posterior border of alveolus of M3),mm,0.01,upte_mm
+m12,UPDA,breadth of upper dental arch (greatest breadth across first upper molars),mm,0.01,upda_mm
+m13,M1BR,greatest breadth of first upper molar,mm,0.01,m1br_mm
+m14,ZYPL,smallest breadth of zygomatic plate (plane parallel to occlusal surface),mm,0.01,zypl_mm
+m15,BNAS,greatest breadth of nasals,mm,0.01,bnas_mm
+m16,LNAS,greatest length of nasals,mm,0.01,lnas_mm
+m17,LOTE,length of lower cheek teeth (alveolus of M1 to posterior border of alveolus of M3),mm,0.01,lote_mm
+m18,CHO,greatest breadth of the choanae,mm,0.01,cho_mm
+m19,BULL,length of auditory bulla (protruding part of bony Eustachian tube),mm,0.01,bull_mm
+m20,BRCA,greatest breadth of braincase,mm,0.01,brca_mm
+m21,DINC,depth of upper incisors (perpendicular on length axis of tooth),mm,0.01,dinc_mm
+m22,,(not defined in documentation; reserved/unused),mm,0.01,m22_mm
+m23,ROHE,mediosagittal projection of rostrum height at anterior border of first upper molars,mm,0.01,rohe_mm
+m24,ROBR,greatest rostrum breadth (in front of zygomatic plates),mm,0.01,robr_mm
+m25,PCPA,distance between extreme points of coronoid and angular processes of the mandible,mm,0.01,pcpa_mm
+hb,HB,head and body length,mm,1.00,hb_mm
+tl,TL,length of tail,mm,1.00,tl_mm
+hf,HF,length of hind-foot (excluding the nail),mm,0.10,hf_mm
+el,EL,length of ear,mm,0.10,el_mm
