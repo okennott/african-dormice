@@ -1,0 +1,33 @@
+# African Dormice Project
+# Path Configuration
+# External data locations (not in Git repository)
+data_root:
+  # Main analysis directory
+  local: "Graphiurus"
+  
+# External bioinformatics tools
+external_tools:
+  iqtree: "iqtree2"  # If in PATH, just use command name
+  astral: "astral.5.7.8.jar"
+  paml_dir: ""  # Path to PAML installation (baseml, mcmctree)
+  mrbayes: "mb"
+  raxml: "raxmlHPC"
+  beast: "beast"
+  amas: "AMAS.py"
+
+# Analysis-specific paths (relative to data_root$local)
+analysis_paths:
+  cytb_data: ""
+  uce_data: ""
+  analyses: ""
+
+# Output directories (relative to repository root)
+output:
+  figures: ""
+  trees: ""
+  alignments: ""
+  
+# Computational resources
+compute:
+  default_threads: 8
+  max_memory_gb: 16

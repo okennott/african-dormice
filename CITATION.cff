@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite the associated paper as below."
+type: software
+title: "African Dormice: Phylogenomics and Systematic Revision of Graphiurus (Gliridae)"
+abstract: >
+  Analysis code and processed data for a comprehensive phylogenomic and taxonomic revision
+  of African Dormice (Graphiurus, Gliridae), integrating cytochrome B and ultraconserved
+  element (UCE) datasets with species delimitation, divergence dating, biogeographic
+  reconstruction, and morphometric analyses.
+authors:
+  - family-names: "Onditi"
+    given-names: "Kenneth Otieno"
+    orcid: "https://orcid.org/0000-0003-4034-6818"
+    affiliation: "Kunming Institute of Zoology, Chinese Academy of Sciences"
+  - family-names: "Demos"
+    given-names: "Terrence C."
+  - family-names: "Kerbis Peterhans"
+    given-names: "Julian C."
+  - family-names: "Nicolas"
+    given-names: "Violaine"
+  - family-names: "Mikula"
+    given-names: "Ondřej"
+  - family-names: "Bryjová"
+    given-names: "Anna"
+  - family-names: "Hounmavo"
+    given-names: "Amétépé"
+  - family-names: "Monadjem"
+    given-names: "Ara"
+  - family-names: "Bryja"
+    given-names: "Josef"
+repository-code: "https://github.com/okennott/African-dormice"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-28"
+keywords:
+  - adaptive radiation
+  - African dormice
+  - CYTB
+  - evolutionary history
+  - Graphiurus
+  - Gliridae
+  - historical biogeography
+  - phylogenomics
+  - species delimitation
+  - ultraconserved elements
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Onditi"
+      given-names: "Kenneth Otieno"
+      orcid: "https://orcid.org/0000-0003-4034-6818"
+    - family-names: "Demos"
+      given-names: "Terrence C."
+    - family-names: "Kerbis Peterhans"
+      given-names: "Julian C."
+    - family-names: "Nicolas"
+      given-names: "Violaine"
+    - family-names: "Mikula"
+      given-names: "Ondřej"
+    - family-names: "Bryjová"
+      given-names: "Anna"
+    - family-names: "Hounmavo"
+      given-names: "Amétépé"
+    - family-names: "Monadjem"
+      given-names: "Ara"
+    - family-names: "Bryja"
+      given-names: "Josef"
+  title: "Diversification and biogeographic history of African dormice (genus Graphiurus) revealed by ultraconserved elements and mitochondrial data"
+  journal: "Molecular Phylogenetics and Evolution"
+  volume: 217
+  year: 2026
+  article-number: "108549"
+  issn: "1055-7903"
+  doi: "10.1016/j.ympev.2026.108549"
+  url: "https://www.sciencedirect.com/science/article/pii/S1055790326000199"

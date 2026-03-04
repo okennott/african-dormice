@@ -1,0 +1,124 @@
+# Repository Directory Structure Configuration
+# This YAML file defines the complete directory tree for the african-dormice project
+# Run setup_directories.ps1 (which reads this file) to create all directories
+
+directories:
+  # Analysis workflows
+  - path: "analyses/01_phylogenetics/01_CYTB/scripts"
+    description: "CYTB phylogenetic inference scripts (IQ-TREE, MrBayes)"
+  - path: "analyses/01_phylogenetics/01_CYTB/config"
+    description: "Configuration files for CYTB analyses"
+  - path: "analyses/01_phylogenetics/01_CYTB/output"
+    description: "Output trees and logs (gitignored)"
+    
+  - path: "analyses/01_phylogenetics/02_UCE/scripts"
+    description: "UCE gene tree and ASTRAL species tree scripts"
+  - path: "analyses/01_phylogenetics/02_UCE/output"
+    description: "UCE analysis outputs (gitignored)"
+    
+  - path: "analyses/01_phylogenetics/03_MCMCtree_PAML/scripts"
+    description: "PAML divergence dating scripts"
+  - path: "analyses/01_phylogenetics/03_MCMCtree_PAML/control_files"
+    description: "BASEML and MCMCtree control files"
+  - path: "analyses/01_phylogenetics/03_MCMCtree_PAML/output"
+    description: "MCMCtree outputs (gitignored)"
+    
+  - path: "analyses/02_divergence_dating/CYTB"
+    description: "CYTB timetree analyses"
+  - path: "analyses/02_divergence_dating/UCE"
+    description: "UCE timetree analyses"
+  - path: "analyses/02_divergence_dating/Gliridae_family"
+    description: "Family-level divergence dating"
+    
+  - path: "analyses/03_species_delimitation/scripts"
+    description: "ASAP, BCUT, mPTP, GMYC scripts"
+  - path: "analyses/03_species_delimitation/output"
+    description: "Species delimitation results"
+    
+  - path: "analyses/04_biogeography/scripts"
+    description: "BioGeoBEARS and RASP analyses"
+  - path: "analyses/04_biogeography/config"
+    description: "Geographic region definitions"
+  - path: "analyses/04_biogeography/output"
+    description: "Biogeographic reconstructions"
+    
+  - path: "analyses/05_ecological"
+    description: "Ecological niche analyses"
+  - path: "analyses/06_morphology"
+    description: "Morphometric analyses"
+    
+  - path: "analyses/07_SDM/scripts"
+    description: "Species distribution modeling (MaxEnt)"
+  - path: "analyses/07_SDM/output"
+    description: "SDM predictions and maps"
+    
+  - path: "analyses/08_genetic_diversity"
+    description: "Haplotype networks and population structure"
+
+  # Visualization
+  - path: "visualization/R"
+    description: "R scripts for figure generation"
+  - path: "visualization/output"
+    description: "Generated figures (gitignored)"
+
+  # Manuscript
+  - path: "manuscript/text"
+    description: "Markdown manuscript sections"
+  - path: "manuscript/figures"
+    description: "Publication-ready figures (PDFs)"
+  - path: "manuscript/tables"
+    description: "Publication-ready tables"
+  - path: "manuscript/supplementary/figures"
+    description: "Supplementary figures"
+  - path: "manuscript/supplementary/tables"
+    description: "Supplementary tables"
+  - path: "manuscript/supplementary/text"
+    description: "Supplementary methods and notes"
+    
+  - path: "manuscript/journal_submission/MolecularPhylogeneticsEvolution"
+    description: "Molecular Phylogenetics and Evolution submission"
+
+  # Data
+  - path: "data/metadata"
+    description: "Sample metadata CSVs (version controlled)"
+  - path: "data/trees"
+    description: "Final phylogenetic trees (<1MB, version controlled)"
+  - path: "data/alignments"
+    description: "Small test alignments only (large files external)"
+  - path: "data/gis"
+    description: "Essential GIS shapefiles"
+  - path: "data/external"
+    description: "Documentation for external data locations"
+  - path: "data/processed"
+    description: "Processed datasets for analyses"
+  - path: "data/raw"
+    description: "Raw data (if small enough for repo)"
+
+  # Configuration
+  - path: "config"
+    description: "Path configuration and environment setup"
+
+  # Documentation
+  - path: "docs"
+    description: "Analysis workflow documentation"
+
+  # Scripts
+  - path: "scripts"
+    description: "Helper scripts and utilities"
+
+  # Results
+  - path: "results/figures"
+    description: "Analysis result figures"
+  - path: "results/tables"
+    description: "Analysis result tables"
+  - path: "results/derived_data"
+    description: "Derived datasets from analyses"
+
+# Git-specific directories (already created by Git)
+git_managed:
+  - ".github"
+
+# Notes:
+# - All 'output' directories are gitignored by default
+# - Paths use forward slashes (/) which work on all platforms
+# - Descriptions help document the purpose of each directory
