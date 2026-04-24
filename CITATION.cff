@@ -29,6 +29,13 @@ authors:
   - family-names: "Bryja"
     given-names: "Josef"
 repository-code: "https://github.com/okennott/African-dormice"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17336599"
+    description: "Zenodo archive of sequence alignments, accepted manuscript, and supplementary materials"
+  - type: doi
+    value: "10.1016/j.ympev.2026.108549"
+    description: "Associated journal publication"
 license: MIT
 version: "1.0.0"
 date-released: "2026-02-28"

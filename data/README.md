@@ -11,7 +11,7 @@ This directory contains version-controlled processed sequence data used as input
 
 ## Accession Numbers
 
-Raw sequence data (FASTQ reads and assembled contigs) are deposited in NCBI GenBank/SRA under accession numbers **PX513364–PX513453**.
+Raw sequence data (FASTQ reads and assembled contigs) are deposited in NCBI GenBank/SRA under accession numbers **PX513364–PX513453**. Processed alignments, the accepted manuscript, and supplementary materials are archived on Zenodo at https://doi.org/10.5281/zenodo.17336599.
 
 ## Notes
 

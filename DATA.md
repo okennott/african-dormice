@@ -9,8 +9,9 @@ This document describes the data files included in this repository, their origin
 Raw sequence data (FASTQ reads and assembled FASTA contigs) generated in this study are deposited in:
 
 - **NCBI GenBank / SRA:** Accession numbers PX513364–PX513453
+- **Zenodo:** Processed alignments (CYTB and UCE), accepted manuscript, and supplementary materials — https://doi.org/10.5281/zenodo.17336599
 
-Processed alignments and key intermediate files are included directly in this repository (see below).
+Analysis scripts and processed data are also included directly in this repository (see below).
 
 ---
 

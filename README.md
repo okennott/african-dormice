@@ -157,7 +157,7 @@ Key packages: `tidyverse`, `MASS`, `vegan`, `cluster`, `dendextend`, `ggrepel`, 
 
 ## Data
 
-Raw sequence data CYTB are deposited in NCBI GenBank under accession numbers PX513364–PX513453. Processed alignments are included in this repository under `data/`.
+Raw sequence data (FASTQ reads and assembled contigs) are deposited in NCBI GenBank/SRA under accession numbers **PX513364–PX513453**. Processed alignments, the accepted manuscript, and supplementary materials are archived on Zenodo: https://doi.org/10.5281/zenodo.17336599. Analysis scripts and processed alignment files are also available in this repository under `data/`.
 
 Morphological trait data are derived from:
 - **MDD** — Mammal Diversity Database v2.3 (Wilson & Reeder; https://www.mammaldiversity.org/)
